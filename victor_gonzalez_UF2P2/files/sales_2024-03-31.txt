@@ -1,0 +1,6 @@
+1;Client=juan;Date=31/41/2024 12:41:11
+1;Products=Manzana, 20.0 €;Pera, 20.0 €;
+1;Amount=270.40000000000003 €
+2;Client=fresa;Date=31/41/2024 12:41:11
+2;Products=Fresa, 10.0 €;
+2;Amount=20.8 €

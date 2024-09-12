@@ -1,0 +1,3 @@
+1;Client=juan;Date=01/21/2024 11:21:20
+1;Products=Manzana, 20.0 €;
+1;Amount=187.20000000000002 €

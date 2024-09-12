@@ -1,0 +1,10 @@
+Product:Manzana;Wholesaler Price:10.00;Stock:10;
+Product:Fresa;Wholesaler Price:5.00;Stock:20;
+Product:Pera;Wholesaler Price:10.00;Stock:30;
+Product:Datil;Wholesaler Price:0.50;Stock:100;
+Product:Melon;Wholesaler Price:30.00;Stock:15;
+Product:Uva;Wholesaler Price:8.50;Stock:25;
+Product:Ciruela;Wholesaler Price:4.00;Stock:50;
+Product:Melocoton;Wholesaler Price:12.00;Stock:70;
+Product:Tomate;Wholesaler Price:3.00;Stock:150;
+Product:Naranja;Wholesaler Price:22.00;Stock:80;

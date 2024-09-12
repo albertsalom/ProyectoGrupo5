@@ -1,0 +1,6 @@
+1;Client=juan;Date=21/13/2024 11:13:50
+1;Products=[Product [id=1, name=Manzana, publicPrice=20.0 €, wholesalerPrice=10.0 €, available=true, stock=5], Product [id=3, name=Pera, publicPrice=20.0 €, wholesalerPrice=10.0 €, available=true, stock=23]]
+1;Amount=249.60000000000002 €
+2;Client=jose;Date=21/13/2024 11:13:50
+2;Products=[Product [id=2, name=Fresa, publicPrice=10.0 €, wholesalerPrice=5.0 €, available=true, stock=10]]
+2;Amount=104.0 €

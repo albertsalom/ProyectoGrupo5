@@ -1,0 +1,27 @@
+<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/xsd/maven-4.0.0.xsd http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>victor_gonzalez_UF2P2</groupId>
+  <artifactId>victor_gonzalez_UF2P2</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>maven</name>
+  <dependencies>
+	<dependency>
+		<groupId>mysql</groupId>
+		<artifactId>mysql-connector-java</artifactId>
+		<version>8.0.25</version>
+		<scope>runtime</scope>
+	</dependency>
+</dependencies>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.1</version>
+        <configuration>
+          <release>17</release>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>
